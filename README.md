@@ -21,3 +21,6 @@ import django
 ```
 
 ![Pip install - Modules](03_django_setup.gif)
+
+
+https://www.linkedin.com/learning/paths/become-a-python-developer?u=2007516
